@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A0E6D05E27D9E02600A3F340 /* AccelerometerParalaxExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D05D27D9E02600A3F340 /* AccelerometerParalaxExampleApp.swift */; };
-		A0E6D06027D9E02600A3F340 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D05F27D9E02600A3F340 /* ContentView.swift */; };
-		A0E6D06227D9E02800A3F340 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E6D06127D9E02800A3F340 /* Assets.xcassets */; };
-		A0E6D06527D9E02800A3F340 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E6D06427D9E02800A3F340 /* Preview Assets.xcassets */; };
-		A0E6D06C27D9E05100A3F340 /* MotionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D06B27D9E05100A3F340 /* MotionManager.swift */; };
-		A0E6D06E27D9E09B00A3F340 /* ParallaxMotionModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D06D27D9E09B00A3F340 /* ParallaxMotionModifier.swift */; };
+		A0E6D09627D9F9A900A3F340 /* AccelerometerParallaxExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D09527D9F9A900A3F340 /* AccelerometerParallaxExampleApp.swift */; };
+		A0E6D09827D9F9A900A3F340 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D09727D9F9A900A3F340 /* ContentView.swift */; };
+		A0E6D09A27D9F9AA00A3F340 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E6D09927D9F9AA00A3F340 /* Assets.xcassets */; };
+		A0E6D09D27D9F9AA00A3F340 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E6D09C27D9F9AA00A3F340 /* Preview Assets.xcassets */; };
+		A0E6D0A427D9FA0100A3F340 /* ParallaxMotionModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D0A327D9FA0100A3F340 /* ParallaxMotionModifier.swift */; };
+		A0E6D0A627D9FA0800A3F340 /* MotionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E6D0A527D9FA0800A3F340 /* MotionManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A0E6D05A27D9E02600A3F340 /* AccelerometerParalaxExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AccelerometerParalaxExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A0E6D05D27D9E02600A3F340 /* AccelerometerParalaxExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccelerometerParalaxExampleApp.swift; sourceTree = "<group>"; };
-		A0E6D05F27D9E02600A3F340 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A0E6D06127D9E02800A3F340 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A0E6D06427D9E02800A3F340 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		A0E6D06B27D9E05100A3F340 /* MotionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionManager.swift; sourceTree = "<group>"; };
-		A0E6D06D27D9E09B00A3F340 /* ParallaxMotionModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxMotionModifier.swift; sourceTree = "<group>"; };
+		A0E6D09227D9F9A900A3F340 /* AccelerometerParallaxExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AccelerometerParallaxExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0E6D09527D9F9A900A3F340 /* AccelerometerParallaxExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccelerometerParallaxExampleApp.swift; sourceTree = "<group>"; };
+		A0E6D09727D9F9A900A3F340 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A0E6D09927D9F9AA00A3F340 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A0E6D09C27D9F9AA00A3F340 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A0E6D0A327D9FA0100A3F340 /* ParallaxMotionModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParallaxMotionModifier.swift; sourceTree = "<group>"; };
+		A0E6D0A527D9FA0800A3F340 /* MotionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotionManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A0E6D05727D9E02600A3F340 /* Frameworks */ = {
+		A0E6D08F27D9F9A900A3F340 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -36,39 +36,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A0E6D05127D9E02600A3F340 = {
+		A0E6D08927D9F9A900A3F340 = {
 			isa = PBXGroup;
 			children = (
-				A0E6D05C27D9E02600A3F340 /* AccelerometerParalaxExample */,
-				A0E6D05B27D9E02600A3F340 /* Products */,
+				A0E6D09427D9F9A900A3F340 /* AccelerometerParallaxExample */,
+				A0E6D09327D9F9A900A3F340 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A0E6D05B27D9E02600A3F340 /* Products */ = {
+		A0E6D09327D9F9A900A3F340 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A0E6D05A27D9E02600A3F340 /* AccelerometerParalaxExample.app */,
+				A0E6D09227D9F9A900A3F340 /* AccelerometerParallaxExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A0E6D05C27D9E02600A3F340 /* AccelerometerParalaxExample */ = {
+		A0E6D09427D9F9A900A3F340 /* AccelerometerParallaxExample */ = {
 			isa = PBXGroup;
 			children = (
-				A0E6D05D27D9E02600A3F340 /* AccelerometerParalaxExampleApp.swift */,
-				A0E6D05F27D9E02600A3F340 /* ContentView.swift */,
-				A0E6D06D27D9E09B00A3F340 /* ParallaxMotionModifier.swift */,
-				A0E6D06B27D9E05100A3F340 /* MotionManager.swift */,
-				A0E6D06127D9E02800A3F340 /* Assets.xcassets */,
-				A0E6D06327D9E02800A3F340 /* Preview Content */,
+				A0E6D09527D9F9A900A3F340 /* AccelerometerParallaxExampleApp.swift */,
+				A0E6D09727D9F9A900A3F340 /* ContentView.swift */,
+				A0E6D0A327D9FA0100A3F340 /* ParallaxMotionModifier.swift */,
+				A0E6D0A527D9FA0800A3F340 /* MotionManager.swift */,
+				A0E6D09927D9F9AA00A3F340 /* Assets.xcassets */,
+				A0E6D09B27D9F9AA00A3F340 /* Preview Content */,
 			);
-			path = AccelerometerParalaxExample;
+			path = AccelerometerParallaxExample;
 			sourceTree = "<group>";
 		};
-		A0E6D06327D9E02800A3F340 /* Preview Content */ = {
+		A0E6D09B27D9F9AA00A3F340 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A0E6D06427D9E02800A3F340 /* Preview Assets.xcassets */,
+				A0E6D09C27D9F9AA00A3F340 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -76,39 +76,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A0E6D05927D9E02600A3F340 /* AccelerometerParalaxExample */ = {
+		A0E6D09127D9F9A900A3F340 /* AccelerometerParallaxExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A0E6D06827D9E02800A3F340 /* Build configuration list for PBXNativeTarget "AccelerometerParalaxExample" */;
+			buildConfigurationList = A0E6D0A027D9F9AA00A3F340 /* Build configuration list for PBXNativeTarget "AccelerometerParallaxExample" */;
 			buildPhases = (
-				A0E6D05627D9E02600A3F340 /* Sources */,
-				A0E6D05727D9E02600A3F340 /* Frameworks */,
-				A0E6D05827D9E02600A3F340 /* Resources */,
+				A0E6D08E27D9F9A900A3F340 /* Sources */,
+				A0E6D08F27D9F9A900A3F340 /* Frameworks */,
+				A0E6D09027D9F9A900A3F340 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AccelerometerParalaxExample;
-			productName = AccelerometerParalaxExample;
-			productReference = A0E6D05A27D9E02600A3F340 /* AccelerometerParalaxExample.app */;
+			name = AccelerometerParallaxExample;
+			productName = AccelerometerParallaxExample;
+			productReference = A0E6D09227D9F9A900A3F340 /* AccelerometerParallaxExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A0E6D05227D9E02600A3F340 /* Project object */ = {
+		A0E6D08A27D9F9A900A3F340 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					A0E6D05927D9E02600A3F340 = {
+					A0E6D09127D9F9A900A3F340 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = A0E6D05527D9E02600A3F340 /* Build configuration list for PBXProject "AccelerometerParalaxExample" */;
+			buildConfigurationList = A0E6D08D27D9F9A900A3F340 /* Build configuration list for PBXProject "AccelerometerParallaxExample" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,44 +116,44 @@
 				en,
 				Base,
 			);
-			mainGroup = A0E6D05127D9E02600A3F340;
-			productRefGroup = A0E6D05B27D9E02600A3F340 /* Products */;
+			mainGroup = A0E6D08927D9F9A900A3F340;
+			productRefGroup = A0E6D09327D9F9A900A3F340 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A0E6D05927D9E02600A3F340 /* AccelerometerParalaxExample */,
+				A0E6D09127D9F9A900A3F340 /* AccelerometerParallaxExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A0E6D05827D9E02600A3F340 /* Resources */ = {
+		A0E6D09027D9F9A900A3F340 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0E6D06527D9E02800A3F340 /* Preview Assets.xcassets in Resources */,
-				A0E6D06227D9E02800A3F340 /* Assets.xcassets in Resources */,
+				A0E6D09D27D9F9AA00A3F340 /* Preview Assets.xcassets in Resources */,
+				A0E6D09A27D9F9AA00A3F340 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A0E6D05627D9E02600A3F340 /* Sources */ = {
+		A0E6D08E27D9F9A900A3F340 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0E6D06027D9E02600A3F340 /* ContentView.swift in Sources */,
-				A0E6D06E27D9E09B00A3F340 /* ParallaxMotionModifier.swift in Sources */,
-				A0E6D06C27D9E05100A3F340 /* MotionManager.swift in Sources */,
-				A0E6D05E27D9E02600A3F340 /* AccelerometerParalaxExampleApp.swift in Sources */,
+				A0E6D09827D9F9A900A3F340 /* ContentView.swift in Sources */,
+				A0E6D0A427D9FA0100A3F340 /* ParallaxMotionModifier.swift in Sources */,
+				A0E6D09627D9F9A900A3F340 /* AccelerometerParallaxExampleApp.swift in Sources */,
+				A0E6D0A627D9FA0800A3F340 /* MotionManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A0E6D06627D9E02800A3F340 /* Debug */ = {
+		A0E6D09E27D9F9AA00A3F340 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -214,7 +214,7 @@
 			};
 			name = Debug;
 		};
-		A0E6D06727D9E02800A3F340 /* Release */ = {
+		A0E6D09F27D9F9AA00A3F340 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,21 +269,20 @@
 			};
 			name = Release;
 		};
-		A0E6D06927D9E02800A3F340 /* Debug */ = {
+		A0E6D0A127D9F9AA00A3F340 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"AccelerometerParalaxExample/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"AccelerometerParallaxExample/Preview Content\"";
 				DEVELOPMENT_TEAM = 4AW3ZWSN4J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -291,7 +290,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.stereocat.AccelerometerParalaxExample;
+				PRODUCT_BUNDLE_IDENTIFIER = me.stereocat.AccelerometerParallaxExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -299,21 +298,20 @@
 			};
 			name = Debug;
 		};
-		A0E6D06A27D9E02800A3F340 /* Release */ = {
+		A0E6D0A227D9F9AA00A3F340 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"AccelerometerParalaxExample/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"AccelerometerParallaxExample/Preview Content\"";
 				DEVELOPMENT_TEAM = 4AW3ZWSN4J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,7 +319,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.stereocat.AccelerometerParalaxExample;
+				PRODUCT_BUNDLE_IDENTIFIER = me.stereocat.AccelerometerParallaxExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -332,25 +330,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A0E6D05527D9E02600A3F340 /* Build configuration list for PBXProject "AccelerometerParalaxExample" */ = {
+		A0E6D08D27D9F9A900A3F340 /* Build configuration list for PBXProject "AccelerometerParallaxExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A0E6D06627D9E02800A3F340 /* Debug */,
-				A0E6D06727D9E02800A3F340 /* Release */,
+				A0E6D09E27D9F9AA00A3F340 /* Debug */,
+				A0E6D09F27D9F9AA00A3F340 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A0E6D06827D9E02800A3F340 /* Build configuration list for PBXNativeTarget "AccelerometerParalaxExample" */ = {
+		A0E6D0A027D9F9AA00A3F340 /* Build configuration list for PBXNativeTarget "AccelerometerParallaxExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A0E6D06927D9E02800A3F340 /* Debug */,
-				A0E6D06A27D9E02800A3F340 /* Release */,
+				A0E6D0A127D9F9AA00A3F340 /* Debug */,
+				A0E6D0A227D9F9AA00A3F340 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A0E6D05227D9E02600A3F340 /* Project object */;
+	rootObject = A0E6D08A27D9F9A900A3F340 /* Project object */;
 }

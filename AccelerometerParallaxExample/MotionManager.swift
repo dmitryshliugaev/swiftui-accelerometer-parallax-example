@@ -15,8 +15,8 @@ class MotionManager: ObservableObject {
         self.manager = CMMotionManager()
         self.manager.deviceMotionUpdateInterval = 1/60
         self.manager.startDeviceMotionUpdates(to: .main) { (motionData, error) in
-            guard error == nil else {
-                print(error!)
+            if let error = error {
+                debugPrint(error)
                 return
             }
             

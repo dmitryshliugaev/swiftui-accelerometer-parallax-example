@@ -1,6 +1,6 @@
 //
 //  ParallaxMotionModifier.swift
-//  AccelerometerParalaxExample
+//  AccelerometerParallaxExample
 //
 //  Created by Dmitry Shlyugaev on 10.03.2022.
 //
