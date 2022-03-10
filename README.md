@@ -1,0 +1,1 @@
+![path](output.gif)
